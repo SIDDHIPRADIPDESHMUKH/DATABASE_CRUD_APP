@@ -1,6 +1,7 @@
 # DATABASE_CRUD_APP
 <p>This is Python project that connects to MYSQL database and performs CRUD operatiobs i.e Create, Read, Update, Delete. The operations are performed on students table which is created in database crud. This code uses 'pymysql' library to establish a connection to MySQL and execute SQL queries. For this one have to keep open MySQL and database crud.</p>
-#Features
+
+# Features
 <p>Create: Can Create new records of student.</p>
 <p>Read: Show all data of students.</p>
 <p>Update: Modifies students table by specifying student's ID.</p>
